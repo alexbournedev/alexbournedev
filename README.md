@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript at LaunchCode
+- 🌱 I’m currently learning Java @ LaunchCode
 
 <!---
 alexbournedev/alexbournedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
