@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently an Apprentice Developer at WWT
+- 🌱 I’m currently an Associate Developer at WWT
 
 <!---
 alexbournedev/alexbournedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
